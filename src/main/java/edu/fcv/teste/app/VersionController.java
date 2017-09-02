@@ -10,6 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class VersionController {
     @RequestMapping(method = RequestMethod.GET)
     public String getVersoin(){
-        return "Agora foi";
+        return "Agora foi foiiiiii";
     }
 }
